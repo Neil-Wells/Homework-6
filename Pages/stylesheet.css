@@ -1,0 +1,25 @@
+span{
+color: green;
+background-color: black
+}
+span
+.greenlink{
+    font-family: fantasy;
+    color: green;
+    font-size: large;
+    font-style: italic;
+}
+#uscience{
+    color: greenyellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#usupport{
+    color: darkgreen;
+    font-family:'courier new', Courier, monospace
+}
+body{
+    background-color: black;
+    background-image: url("images/Spooky2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
